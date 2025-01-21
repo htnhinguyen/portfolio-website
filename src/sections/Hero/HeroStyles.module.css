@@ -98,7 +98,6 @@
   
   @media (width >= 1400px) {
     .container {
-      max-height: 100%;
       .hero {
         max-width: 400px;
         width: 400px;
